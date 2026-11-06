@@ -1,5 +1,12 @@
 [
   {
+    "versao": "1.5.1",
+    "data": "2026-11-06",
+    "itens": [
+      "Corrigido o erro que podia aparecer ao abrir o programa pela primeira vez na versão 1.5.0 (\"não conseguiu iniciar o navegador\"); basta abrir de novo"
+    ]
+  },
+  {
     "versao": "1.5.0",
     "data": "2026-11-06",
     "itens": [
