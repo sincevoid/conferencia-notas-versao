@@ -1,5 +1,17 @@
 [
   {
+    "versao": "1.7.0",
+    "data": "2026-11-06",
+    "itens": [
+      "Tela Início reorganizada: o próximo passo e a última conferência ficam lado a lado no topo, os números do mês logo abaixo, e as notas que pedem atenção aparecem junto de um resumo dos contratos (vigentes, vencendo em 60 dias, vencidos) e da planilha do mês. Aviso de versão nova aparece como faixa no topo.",
+      "Todas as telas agora têm o mesmo cabeçalho (ícone, título, explicação e botões no mesmo lugar) e os botões principais ganharam ícones. Clicar no item do menu da tela que já está aberta não recarrega mais a tela: só volta ao topo, mantendo filtros e seleção.",
+      "Barra lateral pode ser recolhida pelo ícone no rodapé, deixando mais espaço para as telas; recolhida, mostra só os ícones e o nome aparece ao passar o mouse. A escolha fica guardada.",
+      "Estatísticas ganharam a aba Contratos: situação do cadastro (vigentes, vencendo, vencidos), quantas notas trazem contrato, os contratos com maior volume no período e as ressalvas encontradas na conferência. A tela Contratos mostra a quantidade em cada filtro.",
+      "Opções do suporte redesenhadas e mais discretas: agora ficam num ícone de ferramentas ao lado da versão, na barra lateral; cada ferramenta mostra o que faz ao passar o mouse. A Ajuda foi atualizada com contratos, relatórios e as novidades recentes.",
+      "A apresentação em PowerPoint (Estatísticas › Gerar apresentação) ganhou um slide opcional de contratos: situação do cadastro e contratos com maior volume no período."
+    ]
+  },
+  {
     "versao": "1.6.1",
     "data": "2026-11-06",
     "itens": [
