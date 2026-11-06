@@ -1,5 +1,13 @@
 [
   {
+    "versao": "1.5.0",
+    "data": "2026-11-06",
+    "itens": [
+      "Janela de novidades: mostra o que mudou na versão, abre sozinha na primeira vez em cada versão e pelo botão Novidades da barra lateral, com as versões anteriores",
+      "Aviso de versão nova: o programa confere uma vez ao dia se saiu versão mais nova e só avisa; nada é baixado nem instalado sozinho"
+    ]
+  },
+  {
     "versao": "1.4.1",
     "data": "2026-11-06",
     "itens": [
