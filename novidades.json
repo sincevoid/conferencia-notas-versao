@@ -1,5 +1,18 @@
 [
   {
+    "versao": "1.6.0",
+    "data": "2026-11-06",
+    "itens": [
+      "Atualização automática em segundo plano a cada 10 minutos, com opção de instalar e reiniciar e correções de download e certificado.",
+      "Nova tela Contratos: cadastro de contratos no programa (importar a planilha do setor, cadastrar, editar e remover)",
+      "Gerar relatório em destaque (Início e Notas do mês) com o novo modelo Relatório Liquidações (uma linha por NL, formato do setor); o relatório personalizado continua na mesma caixa. O vencimento só aparece nas conferências feitas a partir desta versão",
+      "Ao instalar uma atualização escolhida pelo usuário, o programa preserva o pacote selecionado e impede que a atualização automática dispare outro instalador no fechamento.",
+      "O Relatório Liquidações agora inclui as NLs de contingenciamento identificadas como Conting. no Relatório-Geral, inclusive ao filtrar os tipos, mantendo seus valores e sua ordem.",
+      "Em Contratos, o filtro Vencidos mostra somente contratos com término conhecido anterior a hoje. Contratos futuros aparecem como Vigência futura; contratos sem término não são tratados como vencidos.",
+      "As anotações da próxima versão são preservadas quando registradas por processos simultâneos. A entrega remove apenas os itens publicados e mantém as mudanças anotadas durante sua geração."
+    ]
+  },
+  {
     "versao": "1.5.2",
     "data": "2026-11-06",
     "itens": [
