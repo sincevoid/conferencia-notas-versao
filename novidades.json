@@ -1,0 +1,147 @@
+[
+  {
+    "versao": "1.4.1",
+    "data": "2026-11-06",
+    "itens": [
+      "Telas da Conferir: o painel do portal não fica preso ao refazer a tela e os títulos recolhíveis têm alvo de toque maior"
+    ]
+  },
+  {
+    "versao": "1.4.0",
+    "data": "2026-11-06",
+    "itens": [
+      "Modo de teste do suporte: barra de ferramentas com falhas simuladas, cenários da Conferir, checagem de tela, tamanho da janela e mais históricos fictícios"
+    ]
+  },
+  {
+    "versao": "1.3.0",
+    "data": "2026-11-06",
+    "itens": [
+      "Opções do suporte: modo de teste com dados fictícios (de poucas a 500 mil notas), que se desfaz ao sair; Notas do mês rola com os filtros abertos"
+    ]
+  },
+  {
+    "versao": "1.2.4",
+    "data": "2026-11-06",
+    "itens": [
+      "Notas do mês: página rola com filtros abertos, mais espaço no Mostrar todas e listas muito grandes não travam"
+    ]
+  },
+  {
+    "versao": "1.2.3",
+    "data": "2026-11-06",
+    "itens": [
+      "Conferências ocupam menos espaço em disco"
+    ]
+  },
+  {
+    "versao": "1.2.2",
+    "data": "2026-11-06",
+    "itens": [
+      "Planilhas e fim da conferência mais rápidos"
+    ]
+  },
+  {
+    "versao": "1.2.1",
+    "data": "2026-11-06",
+    "itens": [
+      "O pedido de login do portal e as etapas da conferência ficaram mais confiáveis; parar durante um novo login preserva os relatórios parciais"
+    ]
+  },
+  {
+    "versao": "1.2.0",
+    "data": "2026-11-05",
+    "itens": [
+      "Um dia que não fecha não impede os outros; o histórico guarda o que foi lido mesmo quando a conferência para; botão Continuar de onde parou e resumo por dia no resultado; o token de sessão não é mais gravado em disco"
+    ]
+  },
+  {
+    "versao": "1.1.4",
+    "data": "2026-11-05",
+    "itens": [
+      "Ajuda e documentação do programa mais enxutas"
+    ]
+  },
+  {
+    "versao": "1.1.3",
+    "data": "2026-11-05",
+    "itens": [
+      "Páginas lidas não se perdem se o programa cair no meio da coleta; timeout na lista do portal ganha uma nova tentativa."
+    ]
+  },
+  {
+    "versao": "1.1.2",
+    "data": "2026-11-05",
+    "itens": [
+      "Espera entre pedidos ao portal sorteada de 1,5 a 2 s (coleta cerca de 12% mais rápida).",
+      "Aviso \"Entre no portal\" e janela do portal só quando o portal pede login; antes apareciam por alguns segundos em toda conferência.",
+      "Ações do resultado da conferência alinhadas numa linha."
+    ]
+  },
+  {
+    "versao": "1.1.1",
+    "data": "2026-11-05",
+    "itens": [
+      "Coleta recusa formulários isolados e tabelas truncadas em vez de tratar a resposta como dia sem notas.",
+      "Notas consultadas da última execução abrem mesmo quando a comparação falha, sem recorrer à planilha antiga."
+    ]
+  },
+  {
+    "versao": "1.1.0",
+    "data": "2026-11-05",
+    "itens": [
+      "Nova planilha 'notas consultadas': os dados lidos no portal, sem comparação, para conferir com fórmula no Excel; sai também quando a conferência para no meio"
+    ]
+  },
+  {
+    "versao": "1.0.5",
+    "data": "2026-11-05",
+    "itens": [
+      "Conferência não para mais com 'a lista trouxe notas de outro dia': notas recebidas no dia com geração anterior entram na conferência",
+      "Dia sem notas no portal (fim de semana) é reconhecido",
+      "Registro e pacote de suporte mais limpos e legíveis"
+    ]
+  },
+  {
+    "versao": "1.0.4",
+    "data": "2026-11-04",
+    "itens": [
+      "Interface: o encaixe do portal não esquece mais as medidas a cada redimensionamento",
+      "Pulso dos destaques anima só a opacidade (mais leve)"
+    ]
+  },
+  {
+    "versao": "1.0.3",
+    "data": "2026-11-04",
+    "itens": [
+      "Programa mais leve e rápido: Início, Notas do mês e o fim da conferência leem menos o histórico",
+      "Busca de notas e painel do portal mais responsivos"
+    ]
+  },
+  {
+    "versao": "1.0.2",
+    "data": "2026-11-04",
+    "itens": [
+      "Melhorias na instalação, no diagnóstico e nas ferramentas de suporte",
+      "Ajuda e opções avançadas mais claras e acessíveis"
+    ]
+  },
+  {
+    "versao": "1.0.1",
+    "data": "2026-11-04",
+    "itens": [
+      "Corrigida a atualização semi-automática para sugerir e aceitar somente pacotes .zip de versão superior à instalada"
+    ]
+  },
+  {
+    "versao": "1.0.0",
+    "data": "2026-11-04",
+    "itens": [
+      "Primeira versão estável oficial: programa renomeado para Contabilidade - Tribunal de Justiça do Estado de São Paulo (Contabilidade TJSP)",
+      "Paleta Verde mineral refinada nos temas claro e escuro, barra de título nativa do Windows sincronizada com o tema e ícone multi-tamanho de alta definição",
+      "Estatísticas com múltiplos modos de visualização por gráfico e exportação de apresentação PowerPoint (.pptx) personalizável com 4 temas e até 10 seções de slides",
+      "Instalador com pasta no Menu Iniciar, atalho na Área de Trabalho, registro em Aplicativos instalados do Windows (HKCU), desinstalador em suporte\\ e migração automática da versão anterior",
+      "Atualização semi-automática pelo pacote .zip na pasta Downloads ou arquivo escolhido, mantendo notas, planilhas, histórico, cache e login"
+    ]
+  }
+]
