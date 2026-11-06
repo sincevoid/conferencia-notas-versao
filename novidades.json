@@ -1,5 +1,12 @@
 [
   {
+    "versao": "1.6.1",
+    "data": "2026-11-06",
+    "itens": [
+      "Conferência passa a usar o cadastro de contratos: CNPJ do contrato de outra empresa vira divergência; filial, vigência e contrato fora do cadastro viram avisos (cadastro vazio não muda nada). Notas já conferidas só mudam ao serem reconferidas"
+    ]
+  },
+  {
     "versao": "1.6.0",
     "data": "2026-11-06",
     "itens": [
