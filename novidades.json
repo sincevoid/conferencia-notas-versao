@@ -1,5 +1,12 @@
 [
   {
+    "versao": "1.7.1",
+    "data": "2026-11-09",
+    "itens": [
+      "Notas de contratos em que a empresa só repassa os valores (nota sempre de R$ 0,01) deixam de dar 'Valor e IR divergentes': a conferência passa a exigir o valor de R$ 0,01 na nota e não compara mais valor atestado e retenções com o relatório. Vale por ora só para um contrato."
+    ]
+  },
+  {
     "versao": "1.7.0",
     "data": "2026-11-06",
     "itens": [
