@@ -1,5 +1,12 @@
 [
   {
+    "versao": "1.7.2",
+    "data": "2026-11-12",
+    "itens": [
+      "Visual renovado: a barra lateral agora é verde, na mesma cor do topo da janela, e a tela aberta aparece destacada em claro. Os cartões, botões e avisos ficaram mais limpos, sem brilhos nem faixas coloridas, e os números do mês não piscam mais. Nada mudou de lugar: os botões e as telas são os mesmos."
+    ]
+  },
+  {
     "versao": "1.7.1",
     "data": "2026-11-09",
     "itens": [
