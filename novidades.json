@@ -1,5 +1,12 @@
 [
   {
+    "versao": "1.7.3",
+    "data": "2026-11-25",
+    "itens": [
+      "Telas mais uniformes: o título agora fica no mesmo lugar em todas as telas (em Conferir ele não muda mais de posição quando o painel do portal abre). No Início, o botão do próximo passo vem logo abaixo da frase. Em Contratos e na lista de notas que pedem atenção, os botões de cada linha ficaram mais leves, para os dados aparecerem primeiro. Em Conferir, os três passos têm o mesmo título e o passo já escolhido mostra Alterar e Fechar. Na barra lateral, o nome do usuário cabe numa linha e o aviso de versão nova não cobre mais o número da versão. Na revisão e no detalhe da nota, os valores ficam alinhados abaixo do título de cada coluna."
+    ]
+  },
+  {
     "versao": "1.7.2",
     "data": "2026-11-12",
     "itens": [
