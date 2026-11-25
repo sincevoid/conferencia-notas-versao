@@ -1,5 +1,13 @@
 [
   {
+    "versao": "1.8.0",
+    "data": "2026-11-25",
+    "itens": [
+      "As atualizações ficaram mais seguras. O programa agora só instala uma versão nova que tenha a assinatura do suporte, confere cada arquivo recebido e testa a versão nova antes de trocar. Se uma versão nova não abrir neste computador, o programa volta sozinho para a versão anterior e avisa; as notas, as planilhas e o login continuam como estavam.",
+      "O arquivo para o suporte (tela Ajuda) passou a informar como foi a última atualização e se este computador aceita um tipo de componente mais rápido, que versões futuras do programa podem usar."
+    ]
+  },
+  {
     "versao": "1.7.3",
     "data": "2026-11-25",
     "itens": [
