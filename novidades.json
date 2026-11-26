@@ -1,5 +1,15 @@
 [
   {
+    "versao": "1.8.1",
+    "data": "2026-11-26",
+    "itens": [
+      "Em Ajuda, nas Opções do suporte, há um botão novo: Testar este PC. Ele faz um teste completo do computador (leva de um a dois minutos) e cria um arquivo só para mandar ao suporte, sem relatórios, planilhas nem senhas (o registro do programa, que vai junto, pode citar notas conferidas). Serve para o suporte preparar as próximas versões sabendo o que este computador aceita.",
+      "O programa passou a mandar números de uso para o suporte: que abriu, em que versão está, quantas notas conferiu e que tipo de erro aconteceu. Isso ajuda o suporte a ver o que está dando errado sem você precisar avisar. Não vão notas, valores, nomes nem arquivos. Se preferir desligar, vá em Ajuda, Opções do suporte e clique em Números de uso.",
+      "O suporte agora pode deixar um aviso no Início do programa, por exemplo quando o portal muda ou há algo importante para saber.",
+      "Depois de juntar os arquivos para o suporte, aparece o botão Mandar uma cópia direto ao suporte: com um clique o arquivo chega a ele, sem precisar do WhatsApp. Nada é enviado sem esse clique."
+    ]
+  },
+  {
     "versao": "1.8.0",
     "data": "2026-11-25",
     "itens": [
