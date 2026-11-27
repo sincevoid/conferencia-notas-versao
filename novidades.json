@@ -1,5 +1,20 @@
 [
   {
+    "versao": "1.8.3",
+    "data": "2026-11-26",
+    "itens": [
+      "A atualização do programa ficou mais segura: abrir o programa logo depois de fechar não atrapalha mais a atualização (ela só fica para a próxima vez que o programa for fechado), e duas atualizações nunca rodam ao mesmo tempo."
+    ]
+  },
+  {
+    "versao": "1.8.2",
+    "data": "2026-11-26",
+    "itens": [
+      "O programa passou a ocupar bem menos espaço no disco: o histórico das conferências deixou de guardar a mesma informação repetida a cada conferência. Na primeira vez que abrir depois desta atualização, a tela inicial pode demorar cerca de meio minuto para mostrar os números, enquanto o histórico é reorganizado; isso acontece uma vez só. Nenhuma nota, planilha ou resultado é perdido, e o programa guarda uma cópia do histórico de antes por 30 dias.",
+      "A atualização do programa agora aparece na tela: quando o programa é fechado e há versão nova, uma janela pequena mostra a atualização andando, etapa por etapa, e avisa quando termina. Antes ela acontecia sem nenhum sinal, e abrir o programa nesse meio tempo fazia a atualização ficar para depois. Se o programa for aberto durante a atualização, ele espera ela terminar e já abre na versão nova."
+    ]
+  },
+  {
     "versao": "1.8.1",
     "data": "2026-11-26",
     "itens": [
